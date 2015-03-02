@@ -34,17 +34,21 @@
 #~ For example, True or not False and False returns True. If this isn't clear, look at the Hint.
 #~ Parentheses () ensure your expressions are evaluated in the order you want. Anything in parentheses is evaluated as its own unit.
 
-#~ bool_one = False or not True and True 	# False or False  and True
+#~ bool_one = False or not True and True
+                                #  False or False  and True
 								# False and True
 								# False
 								
-#~ bool_two = False and not True or True	# False and False or True
+#~ bool_two = False and not True or True
+                                #  False and False or True
 								# False or True
 								# True
-#~ bool_three = True and not (False or False)	# True and not (False)
+#~ bool_three = True and not (False or False)
+                                    #  True and not (False)
 									# True and True
 									# True
-#~ bool_four = not not True or False and not True	# True or False and False
+#~ bool_four = not not True or False and not True
+                                        #  True or False and False
 										# True or False
 										# True
 
